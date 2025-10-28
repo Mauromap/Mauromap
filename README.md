@@ -1,9 +1,4 @@
-- Olá, eu sou o @Mauro 
-- Estudante de Ciência da Computação apaixonado por algoritmos e resolução de problemas.  
-- Adoro explorar temas relacionados à Inteligência Artificial, estruturas de dados e programação competitiva.  
-- Atualmente estou aprendendo mais sobre algoritmos de otimização, desenvolvimento backend e sistemas inteligentes.  
-- Procuro colaborar em projetos open-source que envolvam desafios algorítmicos ou aplicações de IA.  
-- Você pode entrar em contato comigo aqui pelo GitHub ou pelas minhas redes sociais!  
+Sou estudante de Ciência da Computação e tenho grande interesse pela área de algoritmos. Gosto de compreender como eles funcionam, desde os mais simples até os mais complexos, e aplicá-los em diferentes contextos — seja em inteligência artificial, otimização ou na resolução de problemas computacionais em geral. Aprofundar-me no raciocínio lógico e na construção de soluções eficientes é o que mais me motiva na área da computação. 
 
 <!---
 Mauromap/Mauromap é um ✨ repositório especial ✨ porque seu `README.md` aparece no seu perfil do GitHub.
